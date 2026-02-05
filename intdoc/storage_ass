@@ -1,0 +1,273 @@
+ 
+
+Storage Assessment Document  
+
+ 
+Table of Contents
+Business Overview	3
+1.1	About Teleperformance	3
+1.2	What do we do?	3
+1.3	How do we do it?	3
+1.4	Our Services	4
+1.5	Our Service Model	5
+1.6	Improvement Methodology	7
+Executive Summary	8
+Customer Pain Points	9
+3.1	Hardware Refresh / Hardware AMC Renewal	9
+3.2	Scalable IT Infrastructure Process Optimization	10
+3.3	Supply Chain Data Analytics	10
+3.4	Disaster Recovery and Business Continuity	10
+3.5	DevOps and CI/CD for Application Development	11
+Roles & Responsibilities	11
+Scope	13
+4.1	Overview	13
+
+
+ 
+
+Executive Summary	
+
+•	Project Objective: Storage Assessment for Cloud Transformation Journey  
+The primary goal of this project is to assessment of existing on-premises infrastructure and Storage and migration of IT Infrastructure to the cloud, with a specific focus on migrating to Microsoft Azure. This migration is driven by the need to modernize their IT infrastructure, improve scalability, availability of IT landscape is around 99.9999% along disaster recovery capabilities, and reduce overall TCO. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customer Pain Points	
+
+Customer has diverse use cases that will benefit from Azure migration. Here are some examples:
+3.1	Hardware Refresh / Hardware AMC Renewal 
+•	Challenge: Hardware refresh or renewing an Annual Maintenance Contract (AMC), several challenges are below. 
+•	Budget Constraints: Hardware refreshes can be costly, especially if you're upgrading an entire infrastructure or a significant number of devices. Budget limitations might hinder the ability to renew or upgrade hardware.
+•	Compatibility Issues: New hardware may not seamlessly integrate with existing systems or software, leading to compatibility challenges. Ensuring that the new hardware is compatible with the current infrastructure and software applications is essential to avoid disruptions.
+•	Downtime and Disruptions: Implementing a hardware refresh can cause downtime, affecting productivity and operations. Minimizing disruptions during the transition is crucial to maintaining workflow continuity.
+•	Data Migration: Transferring data from old hardware to new systems can be complex and time-consuming. Ensuring data integrity and security during migration is vital to prevent loss or corruption of critical information.
+•	Vendor Management: Coordinating with multiple vendors for different hardware components can be challenging. It requires effective communication and management to ensure timely delivery and proper functioning of all hardware components.
+•	Training and Adoption: Upgrading hardware might require employees to learn how to use new systems or software. Adequate training and support should be provided to facilitate smooth adoption and minimize productivity losses due to a learning curve.
+•	Security Concerns: New hardware may introduce security vulnerabilities if not properly configured or integrated into existing security protocols. Ensuring that the upgraded hardware meets security standards and implementing necessary measures is crucial.
+•	Environmental Impact: Disposing of old hardware responsibly while adhering to environmental regulations can be a challenge. Ensuring proper recycling or disposal of outdated hardware without causing harm to the environment is important.
+•	Solution: Opting a Cloud Services below are the solutions client can get.
+•	Cost Efficiency: Cloud services often offer a pay-as-you-go model, reducing upfront costs compared to purchasing new hardware. This can alleviate budget constraints by spreading costs over time.
+•	Scalability: Cloud services allow for easy scalability, enabling you to adjust resources according to your needs without the hassle of procuring additional hardware. This flexibility minimizes compatibility issues and ensures systems can adapt to changing requirements.
+•	Reduced Downtime: Cloud migrations can be performed with minimal downtime compared to traditional hardware upgrades. Service providers often ensure continuous service availability during the migration process, reducing disruptions.
+•	Data Migration and Management: Cloud service providers typically offer tools and services for seamless data migration. They ensure data integrity, security, and provide backup options, simplifying the migration process.
+•	Vendor Management: By consolidating services with a single cloud provider, you reduce the complexity of managing multiple hardware vendors. Dealing with a single vendor streamlines communication, support, and maintenance.
+•	Security and Compliance: Reputable cloud service providers adhere to stringent security standards and compliance certifications. They offer robust security measures, including data encryption, access controls, and regular audits, which can mitigate security concerns associated with hardware upgrades.
+•	Environmental Impact: Cloud services can reduce the environmental impact associated with hardware disposal. By relying on virtual infrastructure, there's less physical hardware to dispose of, lowering e-waste generation.
+•	Training and Adoption: Cloud services often come with intuitive interfaces and user-friendly platforms. Additionally, cloud providers may offer training resources and support to ease the transition for employees, reducing potential productivity losses during adoption.
+
+
+
+
+
+
+
+
+
+
+
+
+Roles & Responsibilities		
+
+1.	Senior Cloud Architect
+a.	Coordinate cloud readiness & provide leadership.
+b.	Review target architecture on cloud environment
+c.	We have a certified and expert team from different domains.
+i.	Certified cloud Solution Architect team
+ii.	Application modernization team
+iii.	Network and Security Team 
+iv.	Storage Team
+v.	Database Engineer 
+vi.	Business Change Manager (if applicable)
+vii.	Project Management Team
+viii.	Service Delivery Team
+ix.	Operations Head
+d.	Project roadmap definition and budget management
+e.	Review of cloud migration roadmap and plan, dependencies
+f.	Monitor progress of various activities to ensure successful completion as per schedule
+2.	Cloud Architect 
+a.	Design cloud architecture/design validation.
+b.	Develop best fit cloud architecture by leveraging cloud platform services
+c.	Support onsite / offshore Chief Cloud Architect •Provide technical guidance to the team.
+3.	Project Manager Owns the migration/cutover plan and is responsible for managing the coordination of tasks and resources
+4.	Cloud Engineer 
+a.	Infrastructure provisioning & configuration on Cloud, OS hardening in cloud
+b.	Application & data migration as per requirements using tools.
+c.	Unit testing , Server configuration, Middleware and database setup
+d.	Application/ Technology
+5.	Specialist
+a.	Perform application configuration for all the integration points.
+b.	Perform data migration for the respective applications.
+c.	Batch Processing -Job Scheduling
+d.	Build, Deploy & Test application as required, Troubleshooting.
+e.	Assess compatibility/integration of proposed components to ensure an integrated architecture.
+
+
+
+Scope – Storage Assessment 		
+4.1	Overview
+The Teleperformance India is running their entire IT Landscape On-premises and Co-located in Third party Datacenter, the existing hardware is End Of Life / End Of Support / Annual Maintenance Contract (AMC) contract is at renewal stage, due to which Teleperformance India is looking for assessment of entire IT landscape and Storage, after the successful assessment of IT Infrastructure they are planning to migrate entire setup on Cloud. 
+•	Objective: 
+Clearly outline the goals and objectives of the storage assessment.
+Define the scope of the assessment, including the systems, applications, and data to be evaluated.
+•	IT Landscape / Storage Assessment Plan 
+Storage assessment plan involves a systematic approach to evaluating current multiple storage and IT infrastructure, identifying requirements, and strategizing improvements. Below is the structured for a storage assessment plan:
+Define the specific requirements and objectives of moving storage with the cloud, consider factors like data volume, access patterns, performance needs, compliance, and budget constraints.
+Compatibility with Cloud Services: Assess if the Dell / HP storage solution is compatible with the targeted cloud service provider (CSP) or cloud model (public, private, and hybrid). Verify support for APIs, protocols, and data transfer mechanisms required by the chosen cloud environment.
+Scalability and Flexibility: Evaluate the scalability features of the Dell / HP storage solution. Check if it allows for easy scaling to accommodate growing data needs and if it supports different storage tiers or performance levels that align with cloud requirements.
+•	Conduct a comprehensive evaluation of the customer's current on-premises infrastructure.
+•	Formulate a tailored cloud migration strategy aimed at optimizing cost, performance, and scalability. This includes estimating the technical efforts required for migration.
+•	Define the migration process and identify the necessary technologies and tools for a seamless transition.
+•	Specify the data migration process, including options such as Lift & Shift, utilizing services like
+•	Azure Data Box Heavy or Data Box Gateway, Tape-Based / Backup Based (Lift & Shift), or third-party tools over the WAN.
+•	Explore bandwidth capacity design based on data size.
+•	Consider using WAN Technology, Dedicated IIL, or P2P Link for migration.
+•	Evaluate options like Site-to-Site VPN or IPsec VPN tunnels.
+•	Define the required resources and man-hours for the migration team.
+•	Gain a thorough understanding of the source system's operating system, databases, network, security, access, and control mechanisms.
+•	Assess whether any operating system or database-level upgrades/updates are necessary.
+•	Consider End-of-Life (EOL) and End-of-Support (EOS) status from the Original Equipment Manufacturer (OEM).
+•	Continue refining the customized cloud migration strategy to ensure ongoing optimization of cost, performance, and scalability.
+
+•	Existing Hardware Inventory 
+Document the existing storage infrastructure, including hardware (servers, storage arrays, etc.) and software (operating systems, storage management software).
+Capture details such as configurations, capacity, performance metrics, and data types.
+
+Sr. No.	Storage Name
+1	Dell SVC
+2	HP 3par 
+3	HP MSA 2000
+
+•	Data Analysis and Classification
+Analyze the data stored across the infrastructure, categorizing it based on criticality, sensitivity, access frequency, and compliance requirements.
+Identify any redundant, obsolete data for potential removal.
+We have identified below tools for Storage Assessment 
+1.	Storage Assessment Foundry – SAFLogin (HP) 
+2.	Storage Resource Manager (SRM) (Dell)
+3.	BlueXP classification (NetAPP) 
+Identify Data Types and Sensitivity Levels: Determine the types of data your organization handles and classify them based on sensitivity (e.g., sensitive, confidential, public). This includes structured (e.g., databases) and unstructured data (e.g., documents, multimedia, Audio, Video, etc.).
+Access Controls and Authentication Mechanisms: Evaluate the storage system's access controls, authentication protocols, and permission settings. Ensure it allows for granular control over who can access, modify, or delete data based on its classification.
+Encryption and Data Protection: Check if the storage solution provides encryption mechanisms, both at rest and during transmission, to safeguard classified data. Evaluate key management practices to ensure proper encryption key handling.
+Automated Classification Tools: Explore if the storage solution offers automated classification tools or integration with third-party software for identifying and categorizing data based on predefined policies or machine learning algorithms.
+Retention Policies and Lifecycle Management: Assess if the storage solution supports data retention policies aligned with data classification. Ensure it allows for setting different retention periods based on the sensitivity or classification of data.
+Metadata and Tagging Capabilities: Assess if the storage solution supports metadata management and tagging functionalities. These features help in associating relevant information with data objects, aiding in their classification and easy retrieval.
+Audit and Reporting Capabilities: Check for auditing and reporting features that track data access, modifications, and movements. These capabilities help maintain compliance and provide visibility into data usage patterns.
+Integration with Data Loss Prevention (DLP) Solutions: Determine if the storage solution integrates with DLP solutions that monitor and prevent sensitive data from unauthorized access or exfiltration, reinforcing data classification policies.
+Scalability and Performance: Ensure that the storage solution can efficiently handle the growing volume of classified data without compromising performance. Evaluate scalability options to accommodate future data growth.
+User Training and Awareness: Consider incorporating training programs to educate users about the importance of data classification, its impact on storage practices, and the handling of sensitive information.
+Testing and Validation: Conduct testing or pilot programs to validate the effectiveness of the storage solution in accurately classifying and managing data according to the defined classification policies.
+
+Sr. No.	Storage Name	Partition Name	Guest Name	Host Name	Datacentre	Operating System	VM Id	Cluster Name	Databases	Size (GiB)	Provisioned (GiB)	% Used	Free (GiB)	% Free	IOPS Provision	IOPS Utilized %
+1	Dell SVC	C:/	R3T VMX 1	10.157.18.242	R3T	Windows	vm-1	Cluster 1 	MS SQL 2016	39.66	13.8	34.8	25.85	65.2	8500	25.85
+2	HP 3par 	C:/	R3T AD 1	10.157.18.243	R3T	Windows	vm-2	Cluster 1 	Oracle 11 G	39.66	19.52	49.2	20.14	50.8	8500	20.14
+3	HP MSA 2000	D:\	R3T AD 1	10.157.18.244	R3T	Linux	vm-3	Cluster 1 	 	39.66	19.52	49.2	20.14	50.8	8500	20.14
+4	HP MSA 2000	File Store	R3T AD 1	10.157.18.244	R3T	Linux	vm-3	Cluster 1 	File Store	39.66	19.52	49.2	20.14	50.8	8500	20.14
+
+After the data Classification we can identified the data and we can plan for capacity building the data which data should go on which storage of the propose cloud services provider. 
+
+•	Performance and Capacity Assessment
+Evaluate capacity utilization trends and forecast future storage needs based on growth rates.
+Measure performance metrics (throughput, IOPS, latency) of the existing storage systems under typical workloads.
+I/O Performance Metrics: Measure Input/output Operations per Second (IOPS), throughput, and latency benchmarks to understand the storage system's performance capabilities. This evaluation provides insights into how quickly data can be read from or written to the storage.
+Workload Analysis: Analyze the specific workloads and applications that will utilize the storage system. Different workloads (such as transactional databases, analytics, virtualization, or content delivery) have unique I/O patterns, influencing the choice of storage solution.
+Storage Architecture: Evaluate the storage architecture.
+Storage Tiering and Caching: Assess if the storage solution supports tiering and caching mechanisms. These features optimize performance by automatically moving frequently accessed data to faster storage tiers or utilizing caching for quicker access.
+RAID Configurations: Evaluate the RAID (Redundant Array of Independent Disks) configurations supported by the storage solution. Different RAID levels offer varying levels of performance, capacity, and fault tolerance. Choose a configuration that aligns with your performance needs.
+Data Reduction and Compression: Check if the storage solution offers data reduction techniques like deduplication and compression. These features can optimize storage capacity utilization and indirectly improve performance by reducing data transfer requirements.
+Proof of Concept (PoC): Conduct real-world performance tests or PoCs with sample workloads to validate the claimed performance metrics and understand how the storage solution performs in your specific environment.
+Vendor Support: Evaluate the vendor's commitment ongoing support.
+
+Sr. No.	Storage Name	Partition Name	Size (GiB)	Provisioned (GiB)	% Used	Free (GiB)	% Free	IOPS Provision	IOPS Utilized %
+1	Dell SVC	C:/	39.66	13.8	34.8	25.85	65.2	8500	25.85
+2	HP 3par 	C:/	39.66	19.52	49.2	20.14	50.8	8500	20.14
+3	HP MSA 2000	D:\	39.66	19.52	49.2	20.14	50.8	8500	20.14
+4	HP MSA 2000	File Store	39.66	19.52	49.2	20.14	50.8	8500	20.14
+
+•	Categorize Workload
+Categorizing workloads for storage involves understanding the nature of data access patterns, I/O (Input/Output) requirements, and the characteristics of applications that utilize the storage infrastructure. Workload categorization helps in optimizing storage resources, designing storage solutions, and allocating resources appropriately over the cloud.
+Random vs. Sequential Workloads:
+Random Workloads: Applications that perform I/O operations in a non-sequential manner, accessing data blocks randomly across the storage. Examples include databases, virtual machines, and online transaction processing (OLTP) systems.
+Sequential Workloads: Workloads that access data in a sequential manner, reading or writing data in a continuous pattern. Examples include video streaming, backup operations, and some data analytics processes.
+Read vs. Write Workloads:
+Read-Heavy Workloads: Workloads where a significant portion of the operations involve reading data. Examples include web servers, content delivery networks (CDNs), and file sharing applications.
+Write-Heavy Workloads: Workloads that involve frequent write operations, where data is constantly modified or updated. Examples include logging systems, databases with frequent updates, and certain financial applications.
+Latency-Sensitive vs. Throughput-Sensitive Workloads:
+Latency-Sensitive Workloads: Applications that require low response times and low latency for I/O operations, such as online transaction systems, virtual desktop infrastructure (VDI), and real-time analytics.
+Throughput-Sensitive Workloads: Workloads that prioritize high data transfer rates and overall system throughput. Examples include large data processing tasks, batch processing, and data warehouses.
+Tagging Data: Establish a standardized set of tags or metadata attributes that will be used to categorize and label data. This taxonomy should align with the organization's needs, making it intuitive and consistent.
+•	Technology Trends and Future Requirements
+Research emerging Cloud storage technologies and trends that might benefit the organization.
+Evaluate how these technologies align with future business needs and consider their potential adoption.
+•	Azure Blobs: A massively scalable object store for text and binary data. Also includes support for big data analytics through Data Lake Storage Gen2.
+•	Azure Files: Managed file shares for cloud or on-premises deployments.
+•	Azure Elastic SAN (preview): A fully integrated solution that simplifies deploying, scaling, managing, and configuring a SAN in Azure.
+•	Azure Queues: A messaging store for reliable messaging between application components.
+•	Azure Tables: A NoSQL store for schema less storage of structured data.
+•	Azure managed Disks: Block-level storage volumes for Azure VMs.
+
+•	Security and Compliance Review
+Assess the existing security measures, including access controls, encryption methods, and compliance with industry standards and regulations (HIPAA, GDPR, etc.).
+Identify any vulnerabilities and recommend improvements to enhance data security.
+
+•	Backup and Disaster Recovery Evaluation
+Review backup strategies, recovery point objectives (RPO), and recovery time objectives (RTO).
+Assess the effectiveness of disaster recovery plans and mechanisms in place.
+
+•	Risk Assessment and Mitigation
+•	Risk Assessment 
+Identify potential risks associated with the current storage infrastructure, including single points of failure, security vulnerabilities, and compliance gaps.
+Develop strategies and recommendations to mitigate these risks.
+Data Loss or Corruption:
+During the migration process, there's a risk of data loss or corruption if not handled properly. Interruptions, software errors, or hardware failures during migration can lead to incomplete or damaged data transfers.
+Downtime and Business Disruption:
+Migrating large volumes of data often requires systems to be offline or in a read-only state, causing downtime. Extended downtime can disrupt business operations and affect productivity.
+Compatibility Issues:
+Migrating data between different storage systems may encounter compatibility issues. Data formats, file systems, or software versions might not align, leading to migration failures or data incompatibility.
+Performance Degradation:
+Improperly executed migrations can result in performance degradation of applications or systems. Factors such as inadequate network bandwidth or misconfigured storage settings can impact performance.
+Security and Data Breaches:
+During migration, data might be vulnerable to security threats, especially if encryption or secure transfer protocols aren't employed. Any security lapses could result in data breaches or unauthorized access.
+Regulatory Compliance:
+If data migration involves sensitive or regulated data, compliance requirements must be met. Failure to maintain compliance during the migration process could lead to legal or regulatory issues.
+Impact on End Users:
+If not communicated effectively, migration activities can confuse or disrupt end users. Any changes in data access or locations can impact workflows, requiring retraining or adjustments.
+Cost Overruns and Resource Constraints:
+Storage migrations might exceed planned budgets due to unexpected issues or increased resource requirements. Insufficient planning or underestimating the scope of the migration can lead to cost overruns.
+•	Risk Mitigation Plan 
+Thorough Planning: Conduct a detailed assessment, create a comprehensive migration plan, and perform adequate testing to anticipate and mitigate potential risks.
+Data Backup and Validation: Prior to migration, back up data and regularly validate its integrity. This ensures a safety net in case of data loss or corruption during migration.
+Phased Migration Approach: Implement a phased migration strategy to minimize downtime and disruptions, allowing for gradual data movement and validation at each step.
+Security Measures: Employ encryption and secure transfer protocols to protect data during migration. Implement access controls and monitor for any security breaches.
+Testing and Validation: Perform testing in a controlled environment to validate data integrity, compatibility, and performance before completing the full migration.
+Communication and Training: Inform stakeholders and end users about the migration plan, its impact, and any changes in data access. Provide training or support as needed.
+Contingency Plans: Develop contingency plans to address unforeseen issues, with clear steps for rollback or recovery in case of migration failure.
+By understanding these risks and implementing appropriate mitigation strategies, organizations can minimize the potential challenges and ensure a smoother and more secure storage migration process.
+
+•	Recommendations and Roadmap
+Compile findings into a comprehensive report outlining the assessment results, highlighting strengths, weaknesses, opportunities, and threats.
+Provide actionable recommendations and a strategic roadmap for improving the storage infrastructure aligned with business goals.
+•	Cost Analysis and Optimization
+Conduct a detailed cost analysis, considering hardware, software, maintenance, and operational expenses related to storage.
+Identify opportunities for cost optimization, such as consolidating storage, implementing tiered storage, or adopting more efficient technologies.
+•	Review and Update
+Periodically review and update the storage assessment plan to adapt to evolving business needs, technology advancements, and changes in compliance requirements.
+A well-executed storage assessment plan serves as a roadmap for optimizing storage infrastructure, enhancing performance, improving security, and aligning with the organization's future goals.
+During the assessment phase, use the finding from the analysis phase to develop a future state cloud migration roadmap. 
+•	Implementation Plan
+Develop a phased wise implementation plan that prioritizes changes, outlines timelines, budgets, resource allocation, and responsible stakeholders.
+
+
+
+
+
+
+
